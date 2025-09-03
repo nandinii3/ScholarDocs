@@ -15,7 +15,7 @@ Currently, the data source is a CSV file. Future plans include **Google Sheets i
 
 ## 🛠️ How to Run
 ```bash
-git clone https://github.com/yourusername/student-pdf-generator.git
-cd student-pdf-generator
+git clone https://github.com/nandinii3/ScholarDocs.git
+cd ScholarDocs
 pip install -r requirements.txt
 python main.py
