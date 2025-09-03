@@ -1,5 +1,4 @@
 # ScholarDocs
-# Student PDF Generator
 
 ## 📌 Overview
 This Python project generates **individual student profile PDFs** from a dataset.  
