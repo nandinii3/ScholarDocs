@@ -12,6 +12,7 @@ Currently, the data source is a CSV file. Future plans include **Google Sheets i
 - Easy to extend for bulk generation.
 
 ## 🗂️ Project Structure
+
 student-pdf-generator/
 ├── data/ # CSV files
 ├── images/ # Student photos
